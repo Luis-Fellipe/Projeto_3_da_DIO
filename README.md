@@ -29,14 +29,19 @@ O tema foi escolhido por afinidade pessoal, mas o foco técnico foi total: apliq
 
 ## 🌐 Acesse o projeto
 
-🔗 [Ver projeto publicado no GitHub Pages](https://luis-fellipe.github.io/Projeto_3_da_DIO/jigokuraku.html)
+🔗 [Ver projeto publicado no GitHub Pages](https://luis-fellipe.github.io/enciclopedia-animes-html/)
 
 ---
 
 ## 📸 Prévia
 
+### 🟠 Página: Bleach
 ![Página Bleach](img/index-preview.png)
+
+### 🔵 Página: Vinland Saga
 ![Página Vinland Saga](img/vinland-preview.png)
+
+### 🟢 Página: Jigokuraku
 ![Página Jigokuraku](img/jigokuraku-preview.png)
 
 ---
